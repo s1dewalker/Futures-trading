@@ -1,2 +1,2 @@
-![](Screenshots/FI TRADING.jpg)
+![](Screenshots/FI_TRADING.jpg)
 
