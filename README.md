@@ -1,3 +1,3 @@
 
-![](FI TRADING.jpg)
+![](Screenshots/FI TRADING.jpg)
 <br/>
