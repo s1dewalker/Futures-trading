@@ -13,6 +13,5 @@
 <br/><br/>
 
 ### PERFORMANCE ANALYSIS<br/>
-![](TJ_PERFORMANCE.JPG)
-![](TJ_PERFORMANCE_2.JPG)
-<br/><br/>
+![](Screenshots/PERFORM1.JPG)
+![](Screenshots/PERFORM2.JPG)
