@@ -15,3 +15,6 @@
 ### PERFORMANCE ANALYSIS<br/>
 ![](Screenshots/PERFORM1.JPG)
 ![](Screenshots/PERFORM2.JPG)
+
+### MACROECONOMIC ANALYSIS<br/>
+![](Screenshots/ECON_DB.JPG)
