@@ -9,7 +9,7 @@
 ![](Screenshots/DB.JPG)
 <br/><br/>
 ### TRADE JOURNAL<br/>
-*Maintaining a journal for event, trade setup, risk management, PnL, observations, perceptions, and strategy updates* 
+*Maintaining a journal for events, trade setup, risk management, PnL, observations, perceptions, and strategy updates* 
 <br/><br/>
 ![](Screenshots/TJ.JPG)
 ![](Screenshots/TJ2.JPG)
@@ -17,6 +17,8 @@
 <br/><br/>
 
 ### PERFORMANCE ANALYSIS DASHBOARD<br/>
+*Analyzing Net PnL for different setups and contracts, participation, and characteristics of wins and losses* 
+<br/><br/>
 ![](Screenshots/PERFORM1.JPG)
 ![](Screenshots/PERFORM2.JPG)
 <br/><br/>
