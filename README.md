@@ -9,7 +9,8 @@
 ![](Screenshots/DB.JPG)
 <br/><br/>
 ### TRADE JOURNAL<br/>
-Maintaining a journal for event, trade setup, risk management, PnL, observations, perceptions, and strategy updates <br/>
+*Maintaining a journal for event, trade setup, risk management, PnL, observations, perceptions, and strategy updates* 
+<br/><br/>
 ![](Screenshots/TJ.JPG)
 ![](Screenshots/TJ2.JPG)
 ![](Screenshots/TJ3.JPG)
