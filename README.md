@@ -4,6 +4,7 @@
 <br/>
 
 ### OVERVIEW DASHBOARD OF AUSTRALIAN FIXED INCOME MARKET<br/>
+Displaying STIR curves: 3 and 6-month spreads, flies, de-flies, combinations, and bonds in bar and line charts with other useful metrics
 ![](Screenshots/DB.JPG)
 <br/><br/>
 ### TRADE JOURNAL<br/>
@@ -15,6 +16,7 @@
 ### PERFORMANCE ANALYSIS<br/>
 ![](Screenshots/PERFORM1.JPG)
 ![](Screenshots/PERFORM2.JPG)
-
+<br/><br/>
 ### MACROECONOMIC ANALYSIS<br/>
 ![](Screenshots/ECON_DB.JPG)
+<br/><br/>
