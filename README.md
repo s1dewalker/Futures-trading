@@ -24,6 +24,11 @@
 ![](Screenshots/PERFORM1.JPG)
 ![](Screenshots/PERFORM2.JPG)
 <br/><br/>
+### SCENARIO ANALYSIS<br/>
+*Analyzing case scenarios for front contracts, getting insights of meeting impacts, ranges, curve movements, and risk-reward ratio* 
+<br/><br/>
+![](scenario_analysis.PNG)
+<br/><br/>
 ### MACROECONOMIC ANALYSIS DASHBOARD<br/>
 ![](Screenshots/ECON_DB.JPG)
 <br/><br/>
