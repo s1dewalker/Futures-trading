@@ -12,7 +12,7 @@
 ![](Screenshots/db3.JPG)
 <br/><br/>
 ### SCENARIO ANALYSIS<br/>
-*Analyzing case scenarios for front contracts, getting insights of meeting impacts, ranges, curve movements, and risk-reward ratio* 
+*Analyzing case scenarios for front contracts. Getting insights of meeting impacts, ranges, curve movements, and risk-reward ratio* 
 <br/><br/>
 ![](Screenshots/scenario_analysis.jpg)
 <br/><br/>
