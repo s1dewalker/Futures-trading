@@ -1,4 +1,4 @@
-![](Screenshots/FTS.jpg)
+![](Screenshots/FTS.png)
 <br/>
 <br/>
 <br/>
