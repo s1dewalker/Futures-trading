@@ -1,4 +1,4 @@
-![](Screenshots/FI_TRADING.jpg)
+![](Screenshots/FTS.jpg)
 <br/>
 <br/>
 <br/>
