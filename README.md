@@ -26,7 +26,7 @@
 <br/><br/>
 
 ### PERFORMANCE ANALYSIS DASHBOARD<br/>
-*Analyzing Net PnL for different setups and contracts, participation, lot sizing, score metrics, and characteristics of wins and losses* 
+*Analyzing Net PnL for different setups and contracts, participation, lot sizing, score metrics, and characteristics of Wins vs Losses* 
 <br/><br/>
 ![](Screenshots/PERFORM1.JPG)
 ![](Screenshots/PERFORM2.JPG)
