@@ -4,7 +4,8 @@
 <br/>
 
 ### OVERVIEW DASHBOARD<br/>
-*Displaying Australian STIR curves: 30-day Interbank Cash Rate Futures, 90-day accepted Bill Futures, their spreads, flies, de-flies, combinations, and 3-year, and 10-year bonds in bar and line charts with other useful metrics*
+*Visualizing Australian STIR curves and bonds: 
+30-day Interbank Cash Rate Futures, 90-day accepted Bill Futures, their spreads, flies, de-flies, condors, other combinations, 3-year bonds, 10-year bonds, 3-10 yield spread in bar and line charts with other fixed-income metrics*
 <br/><br/>
 ![](Screenshots/DB.JPG)
 <br/><br/><br/>
