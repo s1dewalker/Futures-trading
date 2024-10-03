@@ -14,7 +14,7 @@
 ### SCENARIO ANALYSIS<br/>
 *Analyzing case scenarios for front contracts. Meeting impacts on contracts. Contract ranges, curve movements, and risk-reward ratio* 
 <br/><br/>
-![](Screenshots/scenario_analysis.jpg)
+![](Screenshots/sa.PNG)
 <br/><br/>
 
 ### TRADE JOURNAL<br/>
