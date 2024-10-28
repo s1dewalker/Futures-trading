@@ -31,6 +31,8 @@ Wins vs Losses | Viewing wins & losses objectively*
 ![](Screenshots/TJ3.JPG)
 <br/><br/>
 
+[Trade Journal Analysis in Python](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/Airbnb%20correlation.ipynb](https://github.com/s1dewalker/Futures-trading/blob/main/trade_journal_analysis/tja.ipynb)) <br/>
+
 ### MACROECONOMIC ANALYSIS DASHBOARD<br/>
 ![](Screenshots/ECON_DB.JPG)
 <br/><br/>
