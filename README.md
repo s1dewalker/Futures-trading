@@ -9,8 +9,8 @@
 
 ![](Screenshots/DB4.PNG)
 <br/><br/>
-### SCENARIO ANALYSIS<br/>
-*Analyzing case scenarios for front contracts | Meeting impacts on contracts | Contract ranges | Curve movement | Risk-reward ratio* 
+### RISK SCENARIO ANALYSIS <br/>
+*Case scenarios for front contracts | Meeting impacts on contracts | Contract ranges | Curve movement | Risk-reward ratio* 
 <br/><br/>
 ![](Screenshots/sa2.PNG)
 <br/><br/>
