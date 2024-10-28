@@ -1,7 +1,6 @@
 ![](Screenshots/FTS.png)
 <br/>
 <br/>
-<br/>
 
 ### LIVE EXCEL DASHBOARD | Visualizing Australian Fixed Income Market<br/>
 *STIR: 30-day Interbank Cash Rate Futures, 90-day accepted Bill Futures, their spreads, flies, de-flies, condors, other combinations. <br/>
@@ -22,6 +21,10 @@ Wins vs Losses | Viewing wins & losses objectively*
 <br/><br/>
 ![](Screenshots/pa_final.JPG)
 <br/><br/>
+
+### BASIC QUANTITATIVE ANALYSIS<br/>
+- [Statistical Analysis in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb) <br/>
+- [Correlation](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb](https://github.com/s1dewalker/Futures-trading/blob/main/correlation.ipynb)) <br/>
 
 ### TRADE JOURNAL<br/>
 *Maintaining a journal for events, trade setup, risk management, PnL, observations, perceptions, and strategy updates* 
