@@ -17,7 +17,8 @@ BONDS: 3-year bonds, 10-year bonds, yield curve*
 <br/><br/>
 
 ### PERFORMANCE ANALYSIS DASHBOARD<br/>
-*Analyzing Net PnL for different setups and contracts. Participation and Lot sizing. Separate suite for characteristics of Wins vs Losses* 
+*Analyzing different setups and contracts | Net PnL, Participation and Lot sizing <br/>
+Wins vs Losses | Viewing wins & losses objectively* 
 <br/><br/>
 ![](Screenshots/pa_final.JPG)
 <br/><br/>
