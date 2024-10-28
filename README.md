@@ -11,7 +11,7 @@ BONDS: 3-year bonds, 10-year bonds, yield curve*
 ![](Screenshots/DB4.PNG)
 <br/><br/>
 ### SCENARIO ANALYSIS<br/>
-*Analyzing case scenarios for front contracts. Meeting impacts on contracts. Contract ranges, curve movements, and risk-reward ratio* 
+*Analyzing case scenarios for front contracts | Meeting impacts on contracts | Contract ranges | Curve movement | Risk-reward ratio* 
 <br/><br/>
 ![](Screenshots/sa2.PNG)
 <br/><br/>
@@ -19,8 +19,7 @@ BONDS: 3-year bonds, 10-year bonds, yield curve*
 ### PERFORMANCE ANALYSIS DASHBOARD<br/>
 *Analyzing Net PnL for different setups and contracts. Participation and Lot sizing. Separate suite for characteristics of Wins vs Losses* 
 <br/><br/>
-![](Screenshots/PERFORM1.JPG)
-![](Screenshots/PERFORM2.JPG)
+![](Screenshots/pa_final.JPG)
 <br/><br/>
 
 ### TRADE JOURNAL<br/>
