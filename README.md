@@ -24,7 +24,8 @@ Wins vs Losses | Viewing wins & losses objectively*
 
 ### BASIC QUANTITATIVE ANALYSIS<br/>
 - [Statistical Analysis in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb) <br/>
-- [Correlation & Seasonality](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb](https://github.com/s1dewalker/Futures-trading/blob/main/correlation.ipynb)) <br/>
+- Correlation & Seasonality
+- ML (k-means clustering) for market states<br/>
 
 ### TRADE JOURNAL<br/>
 *Maintaining a journal for events, trade setup, risk management, PnL, observations, perceptions, and strategy updates* 
