@@ -3,8 +3,9 @@
 <br/>
 <br/>
 
-### LIVE EXCEL DASHBOARD | Visualizing Australian STIR curves and bonds<br/>
-*30-day Interbank Cash Rate Futures, 90-day accepted Bill Futures, their spreads, flies, de-flies, condors, other combinations. 3-year bonds, 10-year bonds, yield curve with other fixed-income metrics*
+### LIVE EXCEL DASHBOARD | Visualizing Australian Fixed Income market<br/>
+*STIR: 30-day Interbank Cash Rate Futures, 90-day accepted Bill Futures, their spreads, flies, de-flies, condors, other combinations. <br/>
+BONDS: 3-year bonds, 10-year bonds, yield curve*
 <br/><br/>
 
 ![](Screenshots/DB4.PNG)
