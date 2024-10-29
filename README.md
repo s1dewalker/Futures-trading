@@ -35,7 +35,6 @@ Wins vs Losses | Viewing wins & losses objectively*
 <br/><br/>
 ![](Screenshots/TJ.JPG)
 ![](Screenshots/TJ2.JPG)
-![](Screenshots/TJ3.JPG)
 <br/><br/>
 
 
