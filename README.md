@@ -2,7 +2,8 @@
 <br/>
 <br/>
 
-### LIVE EXCEL DASHBOARD | Visualizing Australian Fixed Income Market<br/>
+## LIVE EXCEL DASHBOARDS
+### OVERVIEW DASHBOARD | Visualizing Australian Fixed Income Market<br/>
 *STIR: 30-day Interbank Cash Rate Futures, 90-day accepted Bill Futures, their spreads, flies, de-flies, condors, other combinations.* <br/>
 *BONDS: 3-year bonds, 10-year bonds, yield curve*
 <br/><br/>
@@ -22,7 +23,7 @@ Wins vs Losses | Viewing wins & losses objectively*
 ![](Screenshots/pa_final.JPG)
 <br/><br/>
 
-### BASIC QUANTITATIVE ANALYSIS<br/>
+## BASIC QUANTITATIVE ANALYSIS<br/>
 - *[Statistical Analysis in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)* <br/>
 - *Correlation & Seasonality*
 - *[ML for market states (k-means clustering)](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/qtnb1-states.ipynb)* <br/>
