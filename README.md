@@ -42,3 +42,13 @@ Wins vs Losses | Viewing wins & losses objectively*
 ### MACROECONOMIC ANALYSIS DASHBOARD<br/>
 ![](Screenshots/ECON_DB.JPG)
 <br/><br/>
+
+## ACCOUNT MANAGEMENT<br/>
+- ### Mentality
+![](Screenshots/mentality.JPG)
+- ### Formation
+![](Screenshots/formation.JPG)
+- ### Lot sizing
+![](Screenshots/lot_sizing.JPG)
+- ### Allocation
+![](Screenshots/allocation.JPG)
