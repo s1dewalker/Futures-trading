@@ -53,6 +53,6 @@ Wins vs Losses | Viewing wins & losses objectively*
 - ### Allocation
 ![](Screenshots/allocation.JPG)
 
-## Performance
+## RESULTS
 ![](Screenshots/pat23.PNG)
 
