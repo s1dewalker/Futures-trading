@@ -24,7 +24,7 @@ Wins vs Losses | Viewing wins & losses objectively*
 <br/><br/>
 
 ## BASIC QUANTITATIVE ANALYSIS<br/>
-- *[Statistical Analysis in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)* <br/>
+- *[Statistical Analysis in Python | Historical Value at Risk (VaR)](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)* <br/>
 - *[Correlation & Seasonality](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/correlation.ipynb)*
 - *[ML for market states (k-means clustering)](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/qtnb1-states.ipynb)* <br/>
 - *[Simple Markov Model](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/MARKOV_MODEL.ipynb)* <br/>
