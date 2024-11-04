@@ -52,3 +52,7 @@ Wins vs Losses | Viewing wins & losses objectively*
 ![](Screenshots/lot_sizing.JPG)
 - ### Allocation
 ![](Screenshots/allocation.JPG)
+
+## Performance
+
+
