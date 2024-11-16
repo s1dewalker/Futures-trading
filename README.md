@@ -23,6 +23,12 @@ Wins vs Losses | Viewing wins & losses objectively*
 ![](Screenshots/pa_final.JPG)
 <br/><br/>
 
+### AUTOMATED TRACKING FIXED INCOME METRICS<br/>
+Excel Macros
+![](Screenshots/macrobp.png)
+<br/><br/>
+
+
 ## BASIC QUANTITATIVE ANALYSIS<br/>
 - *[Statistical Analysis in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)* <br/>
 - *[Correlation & Seasonality](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/correlation.ipynb)*
