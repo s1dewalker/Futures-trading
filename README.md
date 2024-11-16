@@ -24,7 +24,7 @@ Wins vs Losses | Viewing wins & losses objectively*
 <br/><br/>
 
 ### AUTOMATED TRACKING FIXED INCOME METRICS<br/>
-Excel Macros
+*Excel Macros*
 ![](Screenshots/macrobp.png)
 <br/><br/>
 ![](Screenshots/macromet.JPG)
