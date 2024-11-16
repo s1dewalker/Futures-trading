@@ -27,6 +27,8 @@ Wins vs Losses | Viewing wins & losses objectively*
 Excel Macros
 ![](Screenshots/macrobp.png)
 <br/><br/>
+![](Screenshots/macromet.JPG)
+<br/><br/>
 
 
 ## BASIC QUANTITATIVE ANALYSIS<br/>
