@@ -16,7 +16,7 @@
 ![](Screenshots/sa2.PNG)
 <br/><br/>
 
-### PERFORMANCE ANALYSIS DASHBOARD<br/>
+### PERFORMANCE ANALYSIS DASHBOARD - How was it? <br/>
 *Analyzing different setups and contracts | Net PnL, Participation and Lot sizing <br/>
 Wins vs Losses | Viewing wins & losses objectively* 
 <br/><br/>
