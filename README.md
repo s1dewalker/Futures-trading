@@ -10,7 +10,7 @@
 
 ![](Screenshots/DB4.PNG)
 <br/><br/>
-### RISK SCENARIO ANALYSIS <br/>
+### RISK SCENARIO ANALYSIS - Look at the range of outcomes and be prepapred for it <br/>
 *Case scenarios for front contracts | Meeting impacts on contracts | Contract ranges | Curve movement | Risk-reward ratio* 
 <br/><br/>
 ![](Screenshots/sa2.PNG)
