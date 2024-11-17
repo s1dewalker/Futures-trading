@@ -5,7 +5,7 @@
 ## LIVE EXCEL DASHBOARDS
 ### OVERVIEW DASHBOARD - Keeping An Eagle Eye On Australian Fixed Income Market<br/>
 *STIR: 30-day Interbank Cash Rate Futures, 90-day accepted Bill Futures, their spreads, flies, de-flies, condors, other combinations.* <br/>
-*BONDS: 3-year bonds, 10-year bonds, yield curve*
+*BONDS: 3-year bond, 10-year bond, yield curve*
 <br/><br/>
 
 ![](Screenshots/DB4.PNG)
