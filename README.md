@@ -53,7 +53,7 @@ Wins vs Losses | Viewing wins & losses objectively*
 
 ## ACCOUNT MANAGEMENT / BUDGETING<br/>
 - ### Mentality
-![](Screenshots/mentality.JPG)
+*Account Balance on line was always conservative*
 
 - ### Lot sizing
 ![](Screenshots/lot_sizing.JPG)
