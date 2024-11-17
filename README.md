@@ -52,11 +52,11 @@ Wins vs Losses | Viewing wins & losses objectively*
 <br/><br/>
 
 ## ACCOUNT MANAGEMENT / BUDGETING<br/>
-- ### Mentality
-*Balance sheet was always conservative*
+*Balance sheet was mostly conservative*
 
 - ### Lot sizing
 ![](Screenshots/lot_sizing.JPG)
+
 - ### Allocation
 ![](Screenshots/allocation.JPG)
 
