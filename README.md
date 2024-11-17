@@ -54,8 +54,7 @@ Wins vs Losses | Viewing wins & losses objectively*
 ## ACCOUNT MANAGEMENT / BUDGETING<br/>
 - ### Mentality
 ![](Screenshots/mentality.JPG)
-- ### Formation
-![](Screenshots/formation.JPG)
+
 - ### Lot sizing
 ![](Screenshots/lot_sizing.JPG)
 - ### Allocation
