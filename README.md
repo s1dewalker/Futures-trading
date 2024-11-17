@@ -51,7 +51,7 @@ Wins vs Losses | Viewing wins & losses objectively*
 ![](Screenshots/ECON_DB.JPG)
 <br/><br/>
 
-## ACCOUNT MANAGEMENT<br/>
+## ACCOUNT MANAGEMENT / BUDGETING<br/>
 - ### Mentality
 ![](Screenshots/mentality.JPG)
 - ### Formation
