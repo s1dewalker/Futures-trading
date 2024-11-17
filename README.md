@@ -10,13 +10,13 @@
 
 ![](Screenshots/DB4.PNG)
 <br/><br/>
-### RISK SCENARIO ANALYSIS - Look at the range of outcomes and be prepapred for it <br/>
+### RISK SCENARIO ANALYSIS - Look At The Range Of Outcomes And Be Prepapred For It <br/>
 *Case scenarios for front contracts | Meeting impacts on contracts | Contract ranges | Curve movement | Risk-reward ratio* 
 <br/><br/>
 ![](Screenshots/sa2.PNG)
 <br/><br/>
 
-### PERFORMANCE ANALYSIS DASHBOARD - How was it? <br/>
+### PERFORMANCE ANALYSIS DASHBOARD - What Lessons Did You Learn? <br/>
 *Analyzing different setups and contracts | Net PnL, Participation and Lot sizing <br/>
 Wins vs Losses | Viewing wins & losses objectively* 
 <br/><br/>
