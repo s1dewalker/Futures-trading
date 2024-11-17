@@ -25,10 +25,10 @@ Wins vs Losses | Viewing wins & losses objectively*
 
 ### AUTOMATED TRACKING FI METRICS<br/>
 *Excel Macros*
-![](Screenshots/macrobp.png)
-<br/><br/>
-![](Screenshots/macromet.JPG)
-<br/><br/>
+
+<img src="Screenshots/macrobp.png" alt="Description" width="800">
+
+<img src="Screenshots/macromet.JPG" alt="Description" width="800">
 
 
 ## BASIC QUANTITATIVE ANALYSIS<br/>
@@ -42,23 +42,20 @@ Wins vs Losses | Viewing wins & losses objectively*
 - *[Trade Journal Analysis in Python](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/Airbnb%20correlation.ipynb](https://github.com/s1dewalker/Futures-trading/blob/main/trade_journal_analysis/tja.ipynb))* <br/>
 
 <br/><br/>
-![](Screenshots/TJ.JPG)
-![](Screenshots/TJ2.JPG)
-<br/><br/>
+<img src="Screenshots/TJ.JPG" alt="Description" width="800">
 
+<img src="Screenshots/TJ2.JPG" alt="Description" width="800">
 
-### MACROECONOMIC ANALYSIS DASHBOARD<br/>
-![](Screenshots/ECON_DB.JPG)
-<br/><br/>
 
 ## ACCOUNT MANAGEMENT / BUDGETING<br/>
 *Balance sheet was mostly conservative*
 
 - ### Lot sizing
-![](Screenshots/lot_sizing.JPG)
+<img src="Screenshots/lot_sizing.JPG" alt="Description" width="800">
 
 - ### Allocation
-![](Screenshots/allocation.JPG)
+<img src="Screenshots/allocation.JPG" alt="Description" width="800">
+
 
 ## RESULTS
 ![](Screenshots/pat23.PNG)
