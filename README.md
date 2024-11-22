@@ -1,8 +1,6 @@
 ![](Screenshots/FTS.png)
 <br/>
-<br/>
-<br/>
-<br/> 
+
 # LIVE EXCEL DASHBOARDS
 ### OVERVIEW DASHBOARD - Keeping an eagle eye on Australian Fixed Income market
 
