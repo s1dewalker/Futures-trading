@@ -16,14 +16,18 @@
 ![](Screenshots/sa2.PNG)
 <br/>
 *Case scenarios for front contracts | Meeting impacts on contracts | Contract ranges | Curve movement | Risk-reward ratio* <br/>
-*This helped to input basis point expectations for each RBA meeting and check the pricing for different cases, which gave ranges, risk-reward for contracts and combinations. Bottom left side had meeting impact section, which showed meeting impacts on the selected contract or strategy.*
+*This helped to input basis point expectations for each RBA meeting and check the pricing for different cases, which gave ranges, risk-reward for contracts and combinations. Bottom left side had meeting impact section, which showed meeting impacts on the selected contract or strategy. This showed which trades not to take more than which trades to take.*
+<br/>
+*__"Sometimes not taking a trade is a trade itself."__*
+
 <br/><br/>
 
 ### PERFORMANCE ANALYSIS DASHBOARD - How was the performance? 
 ![](Screenshots/pa_final.JPG)
 <br/>
 *Analyzing different setups and contracts | Net PnL, Participation and Lot sizing <br/>
-Wins vs Losses | Viewing wins & losses objectively* 
+Wins vs Losses | Viewing wins & losses objectively* <br/>
+*Separating wins and losses to check the nature of them objectively. This helped to be defensive on losing (not so profitable) strategies and push on better strategies.*
 <br/><br/>
 
 ### AUTOMATED TRACKING FI METRICS<br/>
@@ -32,7 +36,7 @@ Wins vs Losses | Viewing wins & losses objectively*
 
 <img src="Screenshots/macromet.JPG" alt="Description" width="800">
 
-*Automating recording important fixed income metrics around volatile events using Excel Macros* <br/>
+*Automating recording important fixed income metrics around volatile events using Excel Macros.* <br/>
 <BR/><BR/>
 
 # QUANTITATIVE ANALYSIS<br/>
