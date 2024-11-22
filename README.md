@@ -1,6 +1,6 @@
 ![](Screenshots/FTS3.jpg)
 <br/>
-there is one attribute that stands out above all: **consistency.**
+There is one attribute that stands out above all: **consistency.**
 
 
 # **LIVE EXCEL DASHBOARDS**
