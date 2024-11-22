@@ -33,7 +33,7 @@ Wins vs Losses | Viewing wins & losses objectively*
 *Automating recording important fixed income metrics around volatile events using Excel Macros* <br/>
 <BR/><BR/>
 
-# BASIC QUANTITATIVE ANALYSIS<br/>
+# QUANTITATIVE ANALYSIS<br/>
 ### Statistical Analysis | Value at Risk (VaR) 
 #### [View  Python code](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)
 ### Correlation & Seasonality
