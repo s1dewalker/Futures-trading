@@ -31,7 +31,7 @@ Wins vs Losses | Viewing wins & losses objectively* <br/>
 *Separating wins and losses helped check the nature of trading strategies objectively. This helped to be defensive on losing (or, not so profitable) strategies and push on the better ones.*
 <br/><br/>
 
-*Consistency focus:* <br/>
+*__Consistency focus:__* <br/>
 
 - *Market analysts focused on consistency prioritize the reliability and stability of their performance over time. They aim to generate steady returns while minimizing the impact of losses and market volatility.*
 - *While consistency focused analysts may not always achieve the highest returns on individual transactions, they aim to maintain a steady and reliable track record of profitability. In turn such an approach can lead to more predictable and manageable outcomes over the long term.*
