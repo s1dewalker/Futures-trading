@@ -26,7 +26,7 @@
 <br/>
 *Analyzing different setups and contracts | Net PnL, Participation and Lot sizing <br/>
 Wins vs Losses | Viewing wins & losses objectively* <br/>
-*Separating wins and losses to check the nature of them objectively. This helped to be defensive on losing (not so profitable) strategies and push on better strategies.*
+*Separating wins and losses helped check the nature of trading strategies objectively. This helped to be defensive on losing (or, not so profitable) strategies and push on the better ones.*
 <br/><br/>
 
 ### AUTOMATED TRACKING FI METRICS<br/>
