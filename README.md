@@ -34,6 +34,7 @@ Wins vs Losses | Viewing wins & losses objectively* <br/>
 <br/><br/>
 
 *Consistency is not just about making profitable trades every single time. It is about growing a discipline approach to trading that generates reliable results over a long period of time.* <br/>
+
 *__Consistency focus:__* <br/>
 
 - *Market analysts focused on consistency prioritize the reliability and stability of their performance over time. They aim to generate steady returns while minimizing the impact of losses and market volatility.*
