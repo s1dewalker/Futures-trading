@@ -31,7 +31,7 @@ Wins vs Losses | Viewing wins & losses objectively*
 
 <img src="Screenshots/macromet.JPG" alt="Description" width="800">
 
-*Automating recoeding important fixed income metrics around volatile events using Excel Macros* <br/>
+*Automating recording important fixed income metrics around volatile events using Excel Macros* <br/>
 <BR/><BR/>
 
 # BASIC QUANTITATIVE ANALYSIS<br/>
