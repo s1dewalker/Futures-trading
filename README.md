@@ -1,7 +1,7 @@
 ![](Screenshots/FTS3.jpg)
 <br/>
-"There is one attribute that stands out above all: **consistency**"
-
+"There is one attribute that stands out above all: **consistency**" <br/>
+ It's a process.
 
 # **LIVE EXCEL DASHBOARDS**
 ### OVERVIEW DASHBOARD - Keeping an eagle eye on Australian Fixed Income market
