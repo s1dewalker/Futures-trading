@@ -34,12 +34,18 @@ Wins vs Losses | Viewing wins & losses objectively*
 <BR/><BR/>
 
 # BASIC QUANTITATIVE ANALYSIS<br/>
-- *[Statistical Analysis in Python | Value at Risk (VaR)](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)* <br/>
-- *[Correlation & Seasonality](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/correlation.ipynb)*
-- *[ML for market states (k-means clustering)](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/qtnb1-states.ipynb)* <br/>
-- *[Simple Markov Model](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/MARKOV_MODEL.ipynb)* <br/>
+### Statistical Analysis | Value at Risk (VaR) 
+#### [View  Python code](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)
+### Correlation & Seasonality
+#### [View  Python code](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/correlation.ipynb)
+### ML for market states (k-means clustering)
+#### [Show model in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/qtnb1-states.ipynb)
+### Simple Markov Model
+#### [Show Model in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/MARKOV_MODEL.ipynb)
 
-### TRADE JOURNAL<br/>
+<br/>
+
+### Trade Journal<br/>
 
 <img src="Screenshots/TJ2.JPG" alt="Description" width="800">
 
