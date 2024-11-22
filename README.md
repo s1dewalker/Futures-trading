@@ -40,11 +40,11 @@ Wins vs Losses | Viewing wins & losses objectively*
 - *[Simple Markov Model](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/MARKOV_MODEL.ipynb)* <br/>
 
 ### TRADE JOURNAL<br/>
-- *Maintaining a journal for events, trade setup, risk management, worse case losses, PnL, observations, perceptions, and strategy updates* <BR/>
 
 <img src="Screenshots/TJ2.JPG" alt="Description" width="800">
 
-  *[View Trade Journal Analysis in Python](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/Airbnb%20correlation.ipynb](https://github.com/s1dewalker/Futures-trading/blob/main/trade_journal_analysis/tja.ipynb))* <br/>
+*Maintaining a journal for events, trade setup, risk management, worse case losses, PnL, observations, perceptions, and strategy updates* <BR/>
+*[View Trade Journal Analysis in Python](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/Airbnb%20correlation.ipynb](https://github.com/s1dewalker/Futures-trading/blob/main/trade_journal_analysis/tja.ipynb))* <br/>
 
 <BR/><BR/>
 # ACCOUNT MANAGEMENT / BUDGETING<br/>
