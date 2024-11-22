@@ -1,4 +1,4 @@
-![](Screenshots/FTS.png)
+![](Screenshots/FTS.jpg)
 <br/>
 
 # LIVE EXCEL DASHBOARDS
