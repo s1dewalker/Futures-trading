@@ -43,8 +43,6 @@ Wins vs Losses | Viewing wins & losses objectively*
 - *Maintaining a journal for events, trade setup, risk management, worse case losses, PnL, observations, perceptions, and strategy updates* <BR/>
 - *[Trade Journal Analysis in Python](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/Airbnb%20correlation.ipynb](https://github.com/s1dewalker/Futures-trading/blob/main/trade_journal_analysis/tja.ipynb))* <br/>
 
-<img src="Screenshots/TJ.JPG" alt="Description" width="800">
-
 <img src="Screenshots/TJ2.JPG" alt="Description" width="800">
 
 <BR/><BR/>
