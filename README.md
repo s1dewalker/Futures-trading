@@ -4,33 +4,36 @@
 
 ## LIVE EXCEL DASHBOARDS
 ### OVERVIEW DASHBOARD - Keeping An Eagle Eye On Australian Fixed Income Market<br/>
+
+![](Screenshots/DB4.PNG)
+<br/><br/>
 *STIR: 30-day Interbank Cash Rate Futures, 90-day accepted Bill Futures, their spreads, flies, de-flies, condors, other combinations.* <br/>
 *BONDS: 3-year bond, 10-year bond, yield curve*
 <br/><br/>
 
-![](Screenshots/DB4.PNG)
-<br/><br/>
 ### RISK SCENARIO ANALYSIS - Look At The Range Of Outcomes And Be Prepapred For It <br/>
-*Case scenarios for front contracts | Meeting impacts on contracts | Contract ranges | Curve movement | Risk-reward ratio* 
-<br/><br/>
+
 ![](Screenshots/sa2.PNG)
+<br/><br/>
+*Case scenarios for front contracts | Meeting impacts on contracts | Contract ranges | Curve movement | Risk-reward ratio* 
 <br/><br/>
 
 ### PERFORMANCE ANALYSIS DASHBOARD - What Lessons Did You Learn? <br/>
+
+![](Screenshots/pa_final.JPG)
+<br/><br/>
 *Analyzing different setups and contracts | Net PnL, Participation and Lot sizing <br/>
 Wins vs Losses | Viewing wins & losses objectively* 
 <br/><br/>
-![](Screenshots/pa_final.JPG)
-<br/><br/>
 
 ### AUTOMATED TRACKING FI METRICS<br/>
-*Excel Macros*
 
 <img src="Screenshots/macrobp.png" alt="Description" width="800">
 
 <img src="Screenshots/macromet.JPG" alt="Description" width="800">
 
-
+*Automating recoeding important fixed income metrics around volatile events using Excel Macros* <br/>
+<BR/><BR/>
 ## BASIC QUANTITATIVE ANALYSIS<br/>
 - *[Statistical Analysis in Python | Value at Risk (VaR)](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)* <br/>
 - *[Correlation & Seasonality](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/correlation.ipynb)*
