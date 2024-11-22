@@ -7,7 +7,7 @@
 ![](Screenshots/DB4.PNG)
 <br/>
 *STIR: 30-day Interbank Cash Rate Futures, 90-day accepted Bill Futures, their spreads, flies, de-flies, condors, other combinations.* <br/>
-*BONDS: 3-year bond, 10-year bond, yield curve* <br/>
+*BONDS: 3-year bond, 10-year bond, yield curve.* <br/>
 *This helped to view the entire Australian Fixed Income markets in one screen.*
 <br/><br/>
 
