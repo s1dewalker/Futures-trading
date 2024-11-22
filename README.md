@@ -35,7 +35,7 @@ Wins vs Losses | Viewing wins & losses objectively* <br/>
 
 <img src="Screenshots/macromet.JPG" alt="Description" width="800">
 
-*Automating recording important fixed income metrics around volatile events using Excel Macros.* <br/>
+*Automated recording metrics like meeting expectations for the next 10 RBA meetings, yield curve, terminal rate, around volatile events using Excel Macros.* <br/>
 <BR/><BR/>
 
 # QUANTITATIVE ANALYSIS<br/>
