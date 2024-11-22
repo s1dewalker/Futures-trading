@@ -11,7 +11,7 @@
 *This helped to view the entire Australian Fixed Income market in one screen.*
 <br/><br/>
 
-### RISK SCENARIO ANALYSIS - Look at the range of outcomes and be prepapred for it 
+### RISK SCENARIO ANALYSIS - Look at the range of outcomes and be prepared for it 
 
 ![](Screenshots/sa2.PNG)
 <br/>
