@@ -18,7 +18,7 @@
 *Case scenarios for front contracts | Meeting impacts on contracts | Contract ranges | Curve movement | Risk-reward ratio* <br/>
 *This helped to input basis point expectations for each RBA meeting and check the pricing for different cases, which gave ranges, risk-reward for contracts and combinations. Bottom left side had meeting impact section, which showed meeting impacts on the selected contract or strategy. This showed which trades not to take more than which trades to take.*
 <br/>
-*__"Sometimes not taking a trade is a trade itself."__*
+*__"Sometimes, not taking a trade is a trade itself."__*
 
 <br/><br/>
 
