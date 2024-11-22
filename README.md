@@ -1,5 +1,7 @@
 ![](Screenshots/FTS3.jpg)
 <br/>
+there is one attribute that stands out above all: **consistency.**
+
 
 # **LIVE EXCEL DASHBOARDS**
 ### OVERVIEW DASHBOARD - Keeping an eagle eye on Australian Fixed Income market
@@ -31,6 +33,7 @@ Wins vs Losses | Viewing wins & losses objectively* <br/>
 *Separating wins and losses helped check the nature of trading strategies objectively. This helped to be defensive on losing (or, not so profitable) strategies and push on the better ones.*
 <br/><br/>
 
+*Consistency is not just about making profitable trades every single time. It is about growing a discipline approach to trading that generates reliable results over a long period of time.* <br/>
 *__Consistency focus:__* <br/>
 
 - *Market analysts focused on consistency prioritize the reliability and stability of their performance over time. They aim to generate steady returns while minimizing the impact of losses and market volatility.*
