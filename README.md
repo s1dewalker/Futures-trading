@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-## LIVE EXCEL DASHBOARDS
+# LIVE EXCEL DASHBOARDS
 ### OVERVIEW DASHBOARD - Keeping An Eagle Eye On Australian Fixed Income Market<br/>
 
 ![](Screenshots/DB4.PNG)
@@ -34,7 +34,8 @@ Wins vs Losses | Viewing wins & losses objectively*
 
 *Automating recoeding important fixed income metrics around volatile events using Excel Macros* <br/>
 <BR/><BR/>
-## BASIC QUANTITATIVE ANALYSIS<br/>
+
+# BASIC QUANTITATIVE ANALYSIS<br/>
 - *[Statistical Analysis in Python | Value at Risk (VaR)](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)* <br/>
 - *[Correlation & Seasonality](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/correlation.ipynb)*
 - *[ML for market states (k-means clustering)](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/qtnb1-states.ipynb)* <br/>
@@ -50,16 +51,16 @@ Wins vs Losses | Viewing wins & losses objectively*
 <img src="Screenshots/TJ2.JPG" alt="Description" width="800">
 
 
-## ACCOUNT MANAGEMENT / BUDGETING<br/>
+# ACCOUNT MANAGEMENT / BUDGETING<br/>
 *Balance sheet was mostly conservative*
 
-- ### Lot sizing
+- #### Lot sizing
 <img src="Screenshots/lot_sizing.JPG" alt="Description" width="800">
 
-- ### Allocation
+- #### Allocation
 <img src="Screenshots/allocation.JPG" alt="Description" width="800">
 
 
-## RESULTS
+# RESULTS
 ![](Screenshots/pat23.PNG)
 
