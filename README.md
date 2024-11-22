@@ -18,7 +18,7 @@
 *Case scenarios for front contracts | Meeting impacts on contracts | Contract ranges | Curve movement | Risk-reward ratio* 
 <br/><br/>
 
-### PERFORMANCE ANALYSIS DASHBOARD - What Lessons Did You Learn? <br/>
+### PERFORMANCE ANALYSIS DASHBOARD - How was the performance? <br/>
 
 ![](Screenshots/pa_final.JPG)
 <br/><br/>
