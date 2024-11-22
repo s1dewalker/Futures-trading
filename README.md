@@ -3,7 +3,7 @@
 <br/>
 
 # LIVE EXCEL DASHBOARDS
-### OVERVIEW DASHBOARD - Keeping An Eagle Eye On Australian Fixed Income Market<br/>
+### OVERVIEW DASHBOARD - Keeping an eagle eye on Australian Fixed Income market
 
 ![](Screenshots/DB4.PNG)
 <br/><br/>
@@ -11,15 +11,14 @@
 *BONDS: 3-year bond, 10-year bond, yield curve*
 <br/><br/>
 
-### RISK SCENARIO ANALYSIS - Look At The Range Of Outcomes And Be Prepapred For It <br/>
+### RISK SCENARIO ANALYSIS - Look at the range of outcomes and be prepapred for it 
 
 ![](Screenshots/sa2.PNG)
 <br/><br/>
 *Case scenarios for front contracts | Meeting impacts on contracts | Contract ranges | Curve movement | Risk-reward ratio* 
 <br/><br/>
 
-### PERFORMANCE ANALYSIS DASHBOARD - How was the performance? <br/>
-
+### PERFORMANCE ANALYSIS DASHBOARD - How was the performance? 
 ![](Screenshots/pa_final.JPG)
 <br/><br/>
 *Analyzing different setups and contracts | Net PnL, Participation and Lot sizing <br/>
