@@ -72,7 +72,7 @@ Wins vs Losses | Viewing wins & losses objectively* <br/>
 
 <BR/><BR/>
 # ACCOUNT MANAGEMENT / BUDGETING<br/>
-*Balance sheet was mostly conservative.*
+*Balance sheet was mostly conservative. Inspiration from Invert Thinking and Fortress Balance Sheet*
 
 - #### Lot sizing
 <img src="Screenshots/lot_sizing.JPG" alt="Description" width="800">
