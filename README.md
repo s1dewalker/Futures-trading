@@ -1,7 +1,7 @@
 ![](Screenshots/FTS3.jpg)
 <br/>
 "There is one attribute that stands out above all: **consistency**" <br/>
- It's a process.
+ It's a process. <BR/>
 
 # **EXCEL ANALYTICS TOOLKIT**
 ### LIVE OVERVIEW DASHBOARD - Keeping an Eagle Eye on Australian Fixed Income market
