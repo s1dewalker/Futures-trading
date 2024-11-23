@@ -3,7 +3,7 @@
 "There is one attribute that stands out above all: **consistency**" <br/>
  It's a process. <br/>
 
-# **EXCEL ANALYTICS AND RISK TOOLKIT**
+# **EXCEL ANALYTICS TOOLKIT**
 ### LIVE OVERVIEW DASHBOARD - Keeping an Eagle Eye on Australian Fixed Income market
 
 ![](Screenshots/DB4.PNG)
