@@ -51,7 +51,7 @@ Wins vs Losses | Viewing wins & losses objectively* <br/>
 *Automated recording metrics like expectations for the next 10 RBA meetings, yield curve, terminal rate, around volatile events using Excel Macros.* <br/>
 <BR/><BR/>
 
-# QUANTITATIVE ANALYSIS (QA)<br/>
+# QUANTITATIVE ANALYSIS (QA) AND MODELS<br/>
 ### Statistical Analysis | Value at Risk (VaR) 
 #### [View  Python code](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)
 ### Correlation & Seasonality
