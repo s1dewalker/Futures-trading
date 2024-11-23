@@ -4,7 +4,7 @@
  It's a process.
 
 # **EXCEL ANALYTICS TOOLKIT**
-### LIVE OVERVIEW DASHBOARD - Keeping an eagle eye on Australian Fixed Income market
+### LIVE OVERVIEW DASHBOARD - Keeping an Eagle Eye on Australian Fixed Income market
 
 ![](Screenshots/DB4.PNG)
 <br/>
@@ -13,7 +13,7 @@
 *Creating this dashboard helped to view the entire Australian Fixed Income market in one screen.*
 <br/><br/>
 
-### RISK SCENARIO ANALYSIS - Look at the range of outcomes and be prepared for it 
+### RISK SCENARIO ANALYSIS - Look at the Range of Outcomes and Be Prepared for it 
 
 ![](Screenshots/sa2.PNG)
 <br/>
