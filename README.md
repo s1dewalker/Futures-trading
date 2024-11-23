@@ -10,7 +10,7 @@
 <br/>
 *STIR: 30-day Interbank Cash Rate Futures, 90-day accepted Bill Futures, their spreads, flies, de-flies, condors, other combinations and curve structures.* <br/>
 *BONDS: 3-year bond, 10-year bond, yield curve.* <br/>
-*Creating this dashboard helped to view the entire Australian Fixed Income market in one screen.*
+*Creating this dashboard helped to view the entire Australian Fixed Income futures market in one screen.*
 <br/><br/>
 
 ### RISK SCENARIO ANALYSIS - Look at the Range of Outcomes and Be Prepared for it 
