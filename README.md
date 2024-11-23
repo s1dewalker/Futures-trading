@@ -24,7 +24,7 @@
 *"Sometimes, not taking a trade is a trade itself."*
 <br/><br/>
 
-### PERFORMANCE ANALYSIS DASHBOARD - How was the performance? 
+### PERFORMANCE ANALYSIS - How was the performance? 
 ![](Screenshots/pa_final.JPG)
 <br/>
 *Analyzing different setups and contracts | Net PnL, Participation and Lot sizing <br/>
