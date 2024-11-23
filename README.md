@@ -30,7 +30,7 @@
 *Analyzing different setups and contracts | Net PnL, Participation and Lot sizing <br/>
 Wins vs Losses | Viewing wins & losses objectively* <br/>
 
-*Separating wins and losses helped check the nature of trading strategies objectively. This helped to be defensive on losing (or, not so profitable) strategies and push on the better ones.*
+*Separating wins and losses helped check the nature of trading strategies objectively. This helped to be defensive on losing (or, not so profitable) strategies and push on the better ones, improving consistency.*
 <br/>
 
 *Consistency is not just about making profitable trades every single time. It is about growing a discipline approach to trading that generates reliable results over a long period of time.* <br/>
