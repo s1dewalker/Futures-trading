@@ -54,6 +54,8 @@ Wins vs Losses | Viewing wins & losses objectively* <br/>
 # QUANTITATIVE ANALYSIS (QA) & MODELS<br/>
 ### Statistical Analysis | Value at Risk (VaR) 
 #### [View  Python code](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)
+<img src="Screenshots/var.JPG" alt="Description" width="500">
+
 ### Correlation & Seasonality
 #### [View  Python code](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/correlation.ipynb)
 ### Machine Learning (k-means clustering) to find market states 
