@@ -53,8 +53,13 @@ Wins vs Losses | Viewing wins & losses objectively* <br/>
 
 # QUANTITATIVE ANALYSIS (QA) & MODELS<br/>
 ### Statistical Analysis | Value at Risk (VaR) 
-#### [View  Python code](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)
-<img src="Screenshots/var.JPG" alt="Description" width="500">
+
+<img src="Screenshots/var.JPG" alt="Description" width="500"> 
+
+#### [View Python code](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)  for statistical analysis
+
+### Random Walk Simulation for Simulation VaR
+#### [View Monte Carlo Simulation](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/A_random_walk_simulation.ipynb)
 
 ### Correlation
 <img src="Screenshots/correlation_24.JPG" alt="Description" width="500">
