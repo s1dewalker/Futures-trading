@@ -56,7 +56,7 @@ Wins vs Losses | Viewing wins & losses objectively* <br/>
 #### [View  Python code](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)
 <img src="Screenshots/var.JPG" alt="Description" width="500">
 
-### Correlation & Seasonality
+### Correlation
 <img src="Screenshots/correlation_24.JPG" alt="Description" width="500">
 
 ### Machine Learning (k-means clustering) to find market states 
