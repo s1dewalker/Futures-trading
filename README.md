@@ -69,10 +69,15 @@ Wins vs Losses | Viewing wins & losses objectively* <br/>
 
 ### Machine Learning (k-means clustering) to find market states 
 #### [View Model in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/qtnb1-states.ipynb)
+
 ### Simple Markov Model to predict market states
 
-
 <img src="Screenshots/mtm.JPG" alt="Description" width="500">
+
+*Applications:* <br/>
+- *Prediction: Predict the next state of the market based on the current state (i.e., forecasting the market's behavior).*
+- *Optimization: Use the Markov Model for portfolio optimization, where states represent different market conditions, and transitions model how the market shifts.*
+- *Risk Assessment: Assess the risk of being in a certain state at a future time.*
 
 #### [View Model in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/MARKOV_MODEL_2.ipynb)
 
