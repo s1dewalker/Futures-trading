@@ -59,6 +59,9 @@ Wins vs Losses | Viewing wins & losses objectively* <br/>
 #### [View Python code](https://github.com/s1dewalker/Futures-trading/blob/main/Stats.ipynb)  for statistical analysis
 
 ### Random Walk Simulation for Simulation VaR
+
+<img src="Screenshots/monte_carloSim.JPG" alt="Description" width="500"> 
+
 #### [View Monte Carlo Simulation](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/A_random_walk_simulation.ipynb)
 
 ### Correlation
