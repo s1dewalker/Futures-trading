@@ -92,7 +92,7 @@ Wins vs Losses | Viewing wins & losses objectively* <br/>
 *[View Trade Journal Analysis in Python](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/Airbnb%20correlation.ipynb](https://github.com/s1dewalker/Futures-trading/blob/main/trade_journal_analysis/tja.ipynb))* <br/>
 
 <BR/><BR/>
-# ACCOUNT MANAGEMENT / BUDGETING<br/>
+# RESILIENT AND DEFENSIVE ACCOUNT MANAGEMENT SYSTEM<br/>
 *Balance sheet was mostly Conservative and Risk Averse.*
 
 - #### Lot sizing
