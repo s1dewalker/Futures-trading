@@ -68,7 +68,7 @@ Wins vs Losses | Viewing wins & losses objectively* <br/>
 <img src="Screenshots/correlation_24.JPG" alt="Description" width="500">
 
 ### Machine Learning (k-means clustering) to find market states 
-#### [View Model in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/qtnb1-states.ipynb)
+#### [View clustering in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/qtnb1-states.ipynb)
 
 ### Simple Markov Model to predict market states
 
