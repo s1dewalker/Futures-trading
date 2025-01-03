@@ -70,6 +70,12 @@ Wins vs Losses | Viewing wins & losses objectively* <br/>
 ### Machine Learning (k-means clustering) to find market states 
 #### [Finding states w/ clustering in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/qtnb3-states.ipynb)
 
+Steps: <br/>
+1. Data preparation: cleaning, transformation <br/>
+2. Create features: like high-low, hl/volume, 5 day rolling volatility, etc and get them in a separate dataframe "X"
+3. Normalize "X" (as some features might dominate due to larger scale): use `MinMaxScaler` function
+4. Find market states w/ k-means clustering
+
 ### Simple Markov Model to predict market states
 
 <img src="Screenshots/mtm.JPG" alt="Description" width="500">
