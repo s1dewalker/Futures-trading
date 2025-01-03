@@ -87,7 +87,7 @@ Steps: <br/>
 - *Optimization: Use the Markov Model for portfolio optimization, where states represent different market conditions, and transitions model how the market shifts.*
 - *Risk Assessment: Assess the risk of being in a certain state at a future time.*
 
-#### [View Model in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/MARKOV_MODEL_2.ipynb)
+#### [View Model in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/MARKOV_MODEL_3.ipynb)
 
 <br/>
 
