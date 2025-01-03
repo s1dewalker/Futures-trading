@@ -75,7 +75,7 @@ Steps: <br/>
 3. Normalize "X" (as some features might dominate due to larger scale): use `MinMaxScaler` function
 4. Find market states w/ k-means clustering: find best "k" with WCSS method with `inertia_`. Fit the model with `KMeans`. Predict clusters with `.fit_predict` on "X".
 
-#### [View clustering in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/qtnb3-states.ipynb)
+#### [View sample clustering in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/qtnb3-states.ipynb)
 <br/>
 
 ### Simple Markov Model to predict market states
@@ -87,7 +87,7 @@ Steps: <br/>
 - *Optimization: Use the Markov Model for portfolio optimization, where states represent different market conditions, and transitions model how the market shifts.*
 - *Risk Assessment: Assess the risk of being in a certain state at a future time.*
 
-#### [View Model in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/MARKOV_MODEL_3.ipynb)
+#### [View sample Model in Python](https://github.com/s1dewalker/Futures-trading/blob/main/Quantitative-Analysis-(QA)/MARKOV_MODEL_3.ipynb)
 
 <br/>
 
