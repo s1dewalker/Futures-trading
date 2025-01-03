@@ -74,7 +74,7 @@ Steps: <br/>
 1. Data preparation: cleaning, transformation <br/>
 2. Create features: like high-low, hl/volume, 5 day rolling volatility, etc and get them in a separate dataframe "X"
 3. Normalize "X" (as some features might dominate due to larger scale): use `MinMaxScaler` function
-4. Find market states w/ k-means clustering
+4. Find market states w/ k-means clustering: find best "k" with WCSS method with `inertia_`. Fit the model with `KMeans`. Predict clusters with `.fit_predict` on "X".
 
 ### Simple Markov Model to predict market states
 
