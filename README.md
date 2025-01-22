@@ -93,7 +93,7 @@ Steps: <br/>
 
 ### Trade Journal<br/>
 
-<img src="Screenshots/TJ2.JPG" alt="Description" width="800">
+<img src="Screenshots/TJ2.JPG" alt="Description" width="500">
 
 *Maintaining a journal for events, trade setup, risk management, worst case losses, PnL, observations, perceptions, and strategy updates.* <BR/>
 ***Knowing the risks before taking them.*** <br/>
