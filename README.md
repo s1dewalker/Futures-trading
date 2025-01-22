@@ -80,7 +80,7 @@ Steps: <br/>
 
 ### Simple Markov Model to predict market states
 
-<img src="Screenshots/tr_mat.JPG" alt="Description" width="500">
+<img src="Screenshots/tr_mat.JPG" alt="Description" width="300">
 
 *Applications:* <br/>
 - *Prediction: Predict the next state of the market based on the current state (i.e., forecasting the market's behavior).*
@@ -93,7 +93,7 @@ Steps: <br/>
 
 ### Trade Journal<br/>
 
-<img src="Screenshots/TJ2.JPG" alt="Description" width="500">
+<img src="Screenshots/TJ2.JPG" alt="Description" width="800">
 
 *Maintaining a journal for events, trade setup, risk management, worst case losses, PnL, observations, perceptions, and strategy updates.* <BR/>
 ***Knowing the risks before taking them.*** <br/>
