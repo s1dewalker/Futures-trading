@@ -80,7 +80,7 @@ Steps: <br/>
 
 ### Simple Markov Model to predict market states
 
-<img src="Screenshots/mtm.JPG" alt="Description" width="500">
+<img src="Screenshots/tr_mat.JPG" alt="Description" width="500">
 
 *Applications:* <br/>
 - *Prediction: Predict the next state of the market based on the current state (i.e., forecasting the market's behavior).*
